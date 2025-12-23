@@ -6,4 +6,4 @@ A0B025068
 
 INTERPRETASI
 
-Gambar diatas adalah hssil dari pivot tabel kelas tekstur yang terdapat di wilayah Wonosobo
+Gambar diatas adalah hasil dari pivot tabel kelas tekstur yang terdapat di wilayah Wonosobo
